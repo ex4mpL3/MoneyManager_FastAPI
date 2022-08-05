@@ -8,7 +8,7 @@ Service for accounting expenses and income on FastAPI
 ## Setup
 ### Cloning the repository
 ```
-
+git@github.com:ex4mpL3/MoneyManager_FastAPI.git
 ```
 ### Install requirements
 ```
